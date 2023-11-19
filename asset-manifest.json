@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-hustle/static/css/main.49a5bbad.css",
+    "main.js": "/word-hustle/static/js/main.067dec01.js",
+    "index.html": "/word-hustle/index.html",
+    "main.49a5bbad.css.map": "/word-hustle/static/css/main.49a5bbad.css.map",
+    "main.067dec01.js.map": "/word-hustle/static/js/main.067dec01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a5bbad.css",
+    "static/js/main.067dec01.js"
+  ]
+}
